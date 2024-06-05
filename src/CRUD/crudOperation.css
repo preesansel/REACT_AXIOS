@@ -1,0 +1,61 @@
+/* Container styles */
+.App {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Button styles */
+  button {
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+  
+  button.edit {
+    background-color: yellow;
+    color: black;
+  }
+  
+  button.delete {
+    background-color: red;
+    color: white;
+  }
+  
+  button.update {
+    background-color: blue;
+    color: white;
+  }
+  
+  /* Form styles */
+  form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
